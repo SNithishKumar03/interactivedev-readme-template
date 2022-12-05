@@ -1,56 +1,38 @@
 # Your Project's Name
 
-One or two paragraphs providing an overview of your project. Tell us about your project.
+Hi there! I am Nithish. I am more than happy to share my website with you all. The website that I designed is an online Grocery Stores. The companies name is called Urban Organics. In todays world, everyone is busy with their own things and dont really have the time to focus much on their diet. People usually opt to eat out. Even if they do decide to cook at home, most of them usually use ingredients that they purchase from the supermarket. Such products from the supermarkets might look fresh but might have heavy use of pesticidies and chemicals. Consuming such products might cuase one more harm than not consuming it at all. Hence I have decided to set up a website that help to promote the use of organic vegetables and fruits too. There is also sales of fresh meat raning from chicken, beef, mutton, lamb and moren than 10 variety of fish. Urban Organics also plans to expand its products to other organic products such as spices, beans and even dried foods too. One of the main aim of this website to provide organic products at a much affordable price online.
 
-Essentially, this part is your sales pitch.
  
 ## Design Process
  
-Provide us insights about your design process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
-
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
-- As a user type, I want to perform an action, so that I can achieve a goal.
-
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. 
-These files should themselves either be included as a pdf file in the project itself (in an separate directory)
-Include the Adobe XD wireframe as a folder. You can include the XD share url. 
+This website is applicable to every age group but is mainly targeted to the younger generation to cater their dietery requirements. I feel that its very important to cultivate good eating habits from a young age. This website features products ranging from organic vegetables and fruits to fresh meat varieties. The younger generations are more health consicous than the older  generation. This can be seen through the increase in use of gyms among the youths and also youths being more cautious in their food intake. But youths do suffer from making wise choices on food sometimes as they do priorities convenience over healthy options. This website would help youths purchase healthy nutritious food products at ease by simply ordering online. Bein a youth myself I feel that such website would be very helpful as I dont have to worry about purchasing grocoeries that are filled with chemiclas or being gentically modified. Youths could also just order the products they want antime they want from any where with their smartphones. From the wireframe, you would notice that the website is very user friendly as it has a simple design with feature rich components.
 
 ## Features
 
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
+The website has a login page at the top right hand corner to login to their account.This allows users to login to their account to view special membership offers.
+The website also has a shopping cart icon which help to show users what are the products that they have added into their shopping list and the total price of their purchase. Users can also search for the products they want to buy with the search icon. Users can view the different products and product categories too. They can also input the quantity of the products they want to buy right under the product itself. There are even contact details at the footer portion of the website. Users can just click on the email id or the number which would then take them to the respective pages to contact the company.
  
-### Existing Features
-- Feature 1 - allows users X to achieve Y, by having them fill out Z
-- ...
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
 ### Features Left to Implement
 - Another feature idea
-
+I would like to add more pages in the future so that i could add more products to the website. With more pages, I could organise my products more easliy and have a wider variety to the choices or organic products. I would like also like to do validation too. I would also like to add an countdown page for any special sales so that the users know when to shop to get the best rates.
 ## Technologies Used
 
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 
-- [JQuery](https://jquery.com)
-    - The project uses **JQuery** to simplify DOM manipulation.
+- [HTML]
+    - The project uses HTML as the main base for my website
+
+- [CSS]
+    - The project uses CSS to add stylistic elements like colours to my website
+    
+- [JavaScript]
+    - The project uses JS to enable interactvity to my website
 
 
 ## Testing
 
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
-
-1. Contact form:
-    1. Go to the "Contact Us" page
-    2. Try to submit the empty form and verify that an error message about the required fields appears
-    3. Try to submit the form with an invalid email address and verify that a relevant error message appears
-    4. Try to submit the form with all inputs valid and verify that a success message appears.
-
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+From my testing, I have discovered that the website is responsive to most the screen sizes rangoing from destop view to mobile application view. I also have decided 
 
 ## Credits
 
