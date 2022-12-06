@@ -1,6 +1,6 @@
 # Your Project's Name
 
-Hi there! I am Nithish. I am more than happy to share my website with you all. The website that I designed is an online Grocery Stores. The companies name is called Urban Organics. In todays world, everyone is busy with their own things and dont really have the time to focus much on their diet. People usually opt to eat out. Even if they do decide to cook at home, most of them usually use ingredients that they purchase from the supermarket. Such products from the supermarkets might look fresh but might have heavy use of pesticidies and chemicals. Consuming such products might cuase one more harm than not consuming it at all. Hence I have decided to set up a website that help to promote the use of organic vegetables and fruits too. There is also sales of fresh meat raning from chicken, beef, mutton, lamb and moren than 10 variety of fish. Urban Organics also plans to expand its products to other organic products such as spices, beans and even dried foods too. One of the main aim of this website to provide organic products at a much affordable price online.
+Hi there! I am Nithish. I am more than happy to share my website with you all. The website that I have designed is an online Grocery Stores. The companies name is called Urban Organics. In todays world, everyone is busy with their own things and dont really have the time to focus much on their diet. People usually opt to eat out. Even if they do decide to cook at home, most of them usually use ingredients that they purchase from the supermarket. Such products from the supermarkets might look fresh but might have heavy use of pesticidies and chemicals. Consuming such products might cuase one more harm than not consuming it at all. Hence I have decided to set up a website that help to promote the use of organic vegetables and fruits too. There is also sales of fresh meat raning from chicken, beef, mutton, lamb and moren than 10 variety of fish. Urban Organics also plans to expand its products to other organic products such as spices, beans and even dried foods too. One of the main aim of this website to provide organic products at a much affordable price online.
 
  
 ## Design Process
@@ -37,11 +37,13 @@ From my testing, I have discovered that the website is responsive to most the sc
 ## Credits
 
 ### Content
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
+- The text for section Y was copied from [Precision Nutrition](https://www.precisionnutrition.com/all-about-organic-foods) website
 
 ### Media
-- The photos used in this site were obtained from ...
+- The photos used in this site were obtained from [Pexels](https://www.pexels.com/search/organic%20food/)
+- Another website used in this site was also obtained from [Pixabay](https://pixabay.com/images/search/people/?manual_search=1)
 
 ### Acknowledgements
 
-- I received inspiration for this project from X
+- I received inspiration for this project from an website know as [Misfits Market](https://www.misfitsmarket.com/whats-in-your-box)
+- I also used the resources from [w3schools](https://www.w3schools.com/html/default.asp)
